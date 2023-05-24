@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b95ca13f5a1b42a578b1e5339ea30ccc394c5ae776d61ddcc320a16552a13415"
+            "sha256": "7a1fe6af412fa0362f7425ac00c90b0e05a46e0a2985b28d5e20e69539dab61c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,14 @@
         ]
     },
     "default": {
+        "loguru": {
+            "hashes": [
+                "sha256:1612053ced6ae84d7959dd7d5e431a0532642237ec21f7fd83ac73fe539e03e1",
+                "sha256:b93aa30099fa6860d4727f1b81f8718e965bb96253fa190fab2077aaad6d15d3"
+            ],
+            "index": "pypi",
+            "version": "==0.7.0"
+        },
         "pexpect": {
             "hashes": [
                 "sha256:0b48a55dcb3c05f3329815901ea4fc1537514d6ba867a152b581d69ae3710937",

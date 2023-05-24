@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pexpect = "*"
+loguru = "*"
 
 [dev-packages]
 
